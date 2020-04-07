@@ -189,20 +189,20 @@ Permintaan nomor offline digunakan untuk *request* pemrosesan nomor dokumen seca
 
 1. Klik menu **Document Control** dan pilih tab **Request Offline Number**
 
- ![]()
+ ![Gambar]()
 
 2. Klik button &quot;+&quot; untuk melakukan *request* nomor offline
 
- ![]()
+ ![Gambar]()
 
 3. Sistem menampilkan form **Request Nomor Offline** Isi form dan klik **Send**
 
- ![]()
+ ![Gambar]()
 
 4. Sistem berhasil menyimpan perubahan dan nomor offline yang sudah di *request* akan tampil di halaman daftar 
 **Request Nomor Offline** dengan status **Waiting**
 
- ![]()
+ ![Gambar]()
 
 
 
@@ -219,11 +219,11 @@ sekretaris. Langkah-langkah untuk menyetujui permintaan nomor adalah sebagai ber
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan disetujui kemudian pilih tombol **Approve**
 
- ![]()
+ ![Gambar]()
 
 3. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu &quot;**Document Control - List Approval Request**&quot; 
 dengan status **Approved** pada role admin eCorr. Sedangkan untuk role sekretaris tersimpan di menu 
@@ -244,11 +244,11 @@ oleh sekretaris. Langkah-langkah untuk menolak permintaan nomor adalah sebagai b
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan ditolak kemudian pilih tombol **Reject**
 
- ![]()
+ ![Gambar]()
 
 3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu 
 &quot;**Document Control - List Approval Request**&quot; dengan status **Rejected** pada role admin eCorr. 
@@ -270,15 +270,15 @@ dokumen nomor offline adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan diunggah dokumennya dengan klik tombol **Detail**
 
- ![]()
+ ![Gambar]()
 
 3. Sistem menampilkan detail nomor offline dan daftar nomor berapa saja yang di-*request*
 
- ![]()
+ ![Gambar]()
 
 4. Pilih tombol **Upload File** dan pilih file yang akan diunggah
 
@@ -287,7 +287,7 @@ dokumen nomor offline adalah sebagai berikut
 5. Sistem berhasil menunggah dokumen/file nomor offline. File yang sudah diunggah muncul di halaman detail nomor offline dan 
 hasil unggahan dapat di unduh oleh user
 
- ![]()
+ ![Gambar]()
 
 
 
@@ -308,24 +308,24 @@ adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan dikembalikan dengan klik tombol **Detail**
 
- ![]()
+ ![Gambar]()
 
 3. Sistem menampilkan detail nomor offline dan daftar nomor berapa saja yang di-*request*
 
- ![]()
+ ![Gambar]()
 
 4. Pilih tombol **Batalkan**
 
- ![]()
+ ![Gambar]()
 
 5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu 
 &quot; **Document Control - List Returned Request**&quot; pada role admin eCorr.
 
- ![]()
+ ![Gambar]()
 
 
 
@@ -346,17 +346,17 @@ pengembalian nomor offline adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **List Returned Request**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan disetujui dengan klik tombol **Approve**
 
- ![]()
+ ![Gambar]()
 
 3. Sistem menampilkan berhasil menyimpan perubahan*.* Nomor yang sudah disetujui akan berubah status menjadi **Approved** , sedangkan pada role sekretaris nomor offline yang disetujui pengembaliannya akan berubah status menjadi **Pengembalian Disetujui**
 
- ![]()
+ ![Gambar]()
 
- ![]()
+ ![Gambar]()
 
 
 
@@ -375,14 +375,14 @@ untuk menambahkan komentar adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan ditambahkan komentar dan halaman detail nomor offline akan muncul
 
- ![]()
+ ![Gambar]()
 
 3. Isikan komentar kemudian klik tombol **Senda**
 
- ![]()
+ ![Gambar]()
 
 4. Sistem menyimpan perubahan dan user dapat saling berkomentar pada detail nomor offline
