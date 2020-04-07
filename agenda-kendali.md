@@ -37,7 +37,7 @@ Langkah-langkah untuk melihat daftar dokumen keluar adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Dokumen Keluar**
 
- ![]()
+ ![Gambar]()
 
 2. Sistem menampilkan dokumen keluar yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status 
 dan *secretary notes*.
@@ -58,7 +58,7 @@ sekretaris. Langkah-langkah untuk melihat daftar dokumen disposisi adalah sebaga
 
 1. Klik menu **Document Control** dan pilih submenu **Dokumen Disposisi**
 
- ![]()
+ ![Gambar]()
 
 2. Sistem menampilkan dokumen disposisi yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, 
 status dan *secretary notes*.
@@ -87,11 +87,11 @@ Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan
 
 1. lik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi  **
 
- ![]()
+ ![Gambar]()
 
 2. Klik salah satu surat yang akan dilihat detailnya
 
- ![]()
+ ![Gambar]()
 
 3. Sistem akan menampilkan detail surat yang dipilih
 
@@ -100,26 +100,26 @@ Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan
 Pada tab informasi *Preview* surat, ditampilkan *preview* surat yang sudah dibuat. *Preview* surat disesuaikan dengan template
 berdasarkan jenis surat.
 
- ![]()
+ ![Gambar]()
 
 ### Detail Surat
 
 Pada tab Detail surat, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, 
 tujuan surat
 
- ![]()
+ ![Gambar]()
 
 ### *Tracking* Surat
 
 Pada tab *Tracking* surat, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
- ![]()
+ ![Gambar]()
 
 ### *History* Memorandum
 
 Pada tab *History* surat, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
- ![]()
+ ![Gambar]()
 
 
 
@@ -136,15 +136,15 @@ adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi**
 
- ![]()
+ ![Gambar]()
 
 2. Pilih dokumen/surat yang akan ditambahkan catatan dengan klik button **Catatan**
 
- ![]()
+ ![Gambar]()
 
 3. Sistem akan menapilkan pop up **Tambah Catatan** Isikan catatan dan klik tombol **Simpan**
 
- ![]()
+ ![Gambar]()
  
  4. Sistem berhasil menyimpan perubahan catatan dokumen
 
@@ -163,15 +163,15 @@ mencetak dokumen agenda kendali adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi**
 
- ![]()
+ ![Gambar]()
 
 2. Klik button **Filter** kemudian sistem menampilkan form filter dokumen yang akan dicetak
 
- ![]()
+ ![Gambar]()
 
 3. Data akan tampil berdasarkan filter yang sudah dipilih kemudian klik tombol **Excel** untuk mencetak
 
- ![]()
+ ![Gambar]()
 
 
 
