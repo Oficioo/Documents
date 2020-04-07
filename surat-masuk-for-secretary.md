@@ -90,29 +90,29 @@ dan *history* surat masuk. Langkah-langkah untuk melihat informasi surat masuk a
 
  ![Gambar](_screenshoot_surat_masuk/SM09.png/?sanitize=true)
 
-#### 1.1. *Preview* Surat masuk
+#### 4.1. *Preview* Surat masuk
 
-Pada tab informasi *Preview* surat masuk, ditampilkan *preview* surat masuk yang merupakan hasil unggahan yang diinputkan 
+Pada tab **Preview Surat Masuk**, ditampilkan *preview* surat masuk yang merupakan hasil unggahan yang diinputkan 
 oleh sekretaris/konseptor.
 
  ![Gambar](_screenshoot_surat_masuk/SM10.png/?sanitize=true)
 
-#### 1.2. Detail Surat masuk
+#### 4.2. Detail Surat masuk
 
-Pada tab Detail surat masuk, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, 
+Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, 
 nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
  ![Gambar](_screenshoot_surat_masuk/SM11.png/?sanitize=true)
 
-#### 1.3. *Tracking* Surat masuk
+#### 4.3. *Tracking* Surat masuk
 
-Pada tab *tracking* surat masuk, ditampilkan informasi *tracking* surat masuk dalam bentuk *chart*
+Pada tab **Tracking Surat Masuk**, ditampilkan informasi *tracking* surat masuk dalam bentuk *chart*
 
  ![Gambar](_screenshoot_surat_masuk/SM12.png/?sanitize=true)
 
-#### 1.4. *History* Surat masuk
+#### 4.4. *History* Surat masuk
 
-Pada tab *History* surat masuk, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan 
+Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan 
 komentar
 
  ![Gambar](_screenshoot_surat_masuk/SM13.png/?sanitize=true)

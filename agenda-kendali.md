@@ -1,4 +1,4 @@
-# Agenda Kendali
+# Surat Masuk
 
 Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat 
 pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh 
