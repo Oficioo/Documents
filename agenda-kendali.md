@@ -1,7 +1,8 @@
 # Agenda Kendali
+================
 
 Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat 
-pemilik KBOnya. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh 
+pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh 
 sekretaris dan akan ditindaklanjuti oleh admin eCorr.
 
 ### 1. Melihat Daftar Dokumen Masuk
@@ -85,7 +86,7 @@ dan &quot;Sangat Rahasia&quot;. Sedangkan sebagai *role* sekretaris hanya dapat 
 
 Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan dokumen disposisi adalah sebagai berikut:
 
-1. lik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi  **
+1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi**
 
  ![Gambar]()
 
@@ -95,27 +96,27 @@ Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan
 
 3. Sistem akan menampilkan detail surat yang dipilih
 
-### *Preview* Surat
+#### *Preview* Surat
 
 Pada tab informasi *Preview* surat, ditampilkan *preview* surat yang sudah dibuat. *Preview* surat disesuaikan dengan template
 berdasarkan jenis surat.
 
  ![Gambar]()
 
-### Detail Surat
+#### Detail Surat
 
 Pada tab Detail surat, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, 
 tujuan surat
 
  ![Gambar]()
 
-### *Tracking* Surat
+#### *Tracking* Surat
 
 Pada tab *Tracking* surat, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
  ![Gambar]()
 
-### *History* Memorandum
+#### *History* Memorandum
 
 Pada tab *History* surat, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
@@ -214,7 +215,7 @@ Permintaan nomor offline digunakan untuk *request* pemrosesan nomor dokumen seca
 
 - Admin eCorr
 
-Admin eCorr dapat melakukan tindak lanjut terhadap permintaan nomor offline dengan  menyetujui permintaan yang diajukan oleh 
+Admin eCorr dapat melakukan tindak lanjut terhadap permintaan nomor offline dengan menyetujui permintaan yang diajukan oleh 
 sekretaris. Langkah-langkah untuk menyetujui permintaan nomor adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
@@ -225,9 +226,9 @@ sekretaris. Langkah-langkah untuk menyetujui permintaan nomor adalah sebagai ber
 
  ![Gambar]()
 
-3. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu &quot;**Document Control - List Approval Request**&quot; 
-dengan status **Approved** pada role admin eCorr. Sedangkan untuk role sekretaris tersimpan di menu 
-&quot; **Document Control - Request Offline Number**&quot;  dengan status **Approved**
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu 
+&quot;**Document Control - List Approval Request**&quot; dengan status **Approved** pada role admin eCorr. Sedangkan untuk
+role sekretaris tersimpan di menu &quot; **Document Control - Request Offline Number**&quot;  dengan status **Approved**
 
 
 
@@ -264,9 +265,9 @@ Sedangkan untuk role sekretaris tersimpan di menu &quot; **Document Control – Re
 
 -  Sekretaris
 
-Sekretaris dapat mengunggah dokumen permasing-masing nomor offline yang sudah di-*request.* Sekretaris yang sudah meunggah 
+Sekretaris dapat mengunggah dokumen permasing-masing nomor offline yang sudah di-*request*. Sekretaris yang sudah meunggah 
 dokumen nomor offline dapat melakukan permintaan nomor kembali maksimal 5 kali *request*. Langkah-langkah untuk mengunggah 
-dokumen nomor offline adalah sebagai berikut
+dokumen nomor offline adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
@@ -282,7 +283,7 @@ dokumen nomor offline adalah sebagai berikut
 
 4. Pilih tombol **Upload File** dan pilih file yang akan diunggah
 
- ![]()
+ ![Gambar]()
 
 5. Sistem berhasil menunggah dokumen/file nomor offline. File yang sudah diunggah muncul di halaman detail nomor offline dan 
 hasil unggahan dapat di unduh oleh user
@@ -323,7 +324,7 @@ adalah sebagai berikut:
  ![Gambar]()
 
 5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu 
-&quot; **Document Control - List Returned Request**&quot; pada role admin eCorr.
+&quot;**Document Control - List Returned Request**&quot; pada role admin eCorr.
 
  ![Gambar]()
 
@@ -352,7 +353,9 @@ pengembalian nomor offline adalah sebagai berikut:
 
  ![Gambar]()
 
-3. Sistem menampilkan berhasil menyimpan perubahan*.* Nomor yang sudah disetujui akan berubah status menjadi **Approved** , sedangkan pada role sekretaris nomor offline yang disetujui pengembaliannya akan berubah status menjadi **Pengembalian Disetujui**
+3. Sistem menampilkan berhasil menyimpan perubahan. Nomor yang sudah disetujui akan berubah status menjadi **Approved**, 
+sedangkan pada role sekretaris nomor offline yang disetujui pengembaliannya akan berubah status menjadi 
+**Pengembalian Disetujui**
 
  ![Gambar]()
 
@@ -381,7 +384,7 @@ untuk menambahkan komentar adalah sebagai berikut:
 
  ![Gambar]()
 
-3. Isikan komentar kemudian klik tombol **Senda**
+3. Isikan komentar kemudian klik tombol **Send**
 
  ![Gambar]()
 
