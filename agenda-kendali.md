@@ -4,7 +4,7 @@ Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi
 pemilik KBOnya. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh 
 sekretaris dan akan ditindaklanjuti oleh admin eCorr.
 
-1. Melihat Daftar Dokumen Masuk
+### 1. Melihat Daftar Dokumen Masuk
 
 **Role yang sesuai**
 
@@ -25,7 +25,7 @@ Langkah-langkah untuk melihat daftar dokumen masuk adalah sebagai berikut:
 
 
 
-2. Melihat Daftar Dokumen Keluar
+### 2. Melihat Daftar Dokumen Keluar
 
 **Role yang sesuai**
 
@@ -46,7 +46,7 @@ dan *secretary notes*.
 
 
 
-3. Melihat Daftar Dokumen Disposisi
+### 3. Melihat Daftar Dokumen Disposisi
 
 **Role yang sesuai**
 
@@ -67,7 +67,7 @@ status dan *secretary notes*.
 
 
 
-4. Melakukan Detail Surat
+### 4. Melakukan Detail Surat
 
 **Role yang sesuai**
 
@@ -125,7 +125,7 @@ Pada tab *History* surat, ditampilkan riwayat memorandum yang terdapat informasi
 
 
 
-5. Menambah Catatan Dokumen
+### 5. Menambah Catatan Dokumen
 
 **Role yang sesuai**
 
@@ -152,7 +152,7 @@ adalah sebagai berikut:
 
 
 
-6. Mencetak Dokumen Agenda Kendali
+### 6. Mencetak Dokumen Agenda Kendali
 
 **Role yang sesuai**
 
@@ -177,7 +177,7 @@ mencetak dokumen agenda kendali adalah sebagai berikut:
 
 
 
-7. Melakukan *Request* Nomor Offline
+### 7. Melakukan *Request* Nomor Offline
 
 **Role yang sesuai**
 
@@ -208,7 +208,7 @@ Permintaan nomor offline digunakan untuk *request* pemrosesan nomor dokumen seca
 
 
 
-8. Menyetujui Permintaan Nomor Offline
+### 8. Menyetujui Permintaan Nomor Offline
 
 **Role yang sesuai**
 
@@ -233,7 +233,7 @@ dengan status **Approved** pada role admin eCorr. Sedangkan untuk role sekretari
 
 
 
-9. Menolak Permintaan Nomor Offline
+### 9. Menolak Permintaan Nomor Offline
 
 **Role yang sesuai**
 
@@ -255,7 +255,10 @@ oleh sekretaris. Langkah-langkah untuk menolak permintaan nomor adalah sebagai b
 Sedangkan untuk role sekretaris tersimpan di menu &quot; **Document Control – Request Offline Number**&quot; dengan status **Rejected**
 
 
-10. Mengunggah Dokumen Nomor Offline
+
+
+
+### 10. Mengunggah Dokumen Nomor Offline
 
 **Role yang sesuai**
 
@@ -290,7 +293,7 @@ hasil unggahan dapat di unduh oleh user
 
 
 
-11. Mengembalikan Nomor Offline
+### 11. Mengembalikan Nomor Offline
 
 **Role yang sesuai**
 
@@ -328,7 +331,7 @@ adalah sebagai berikut:
 
 
 
-12. Menyetujui Pengembalian Nomor Offline
+### 12. Menyetujui Pengembalian Nomor Offline
 
 **Role yang sesuai**
 
@@ -359,7 +362,7 @@ pengembalian nomor offline adalah sebagai berikut:
 
 
 
-13. Menambah Komentar Request Nomor Offline
+### 13. Menambah Komentar Request Nomor Offline
 
 **Role yang sesuai**
 
