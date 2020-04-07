@@ -10,19 +10,19 @@ Sekretaris dapat menambah surat masuk pada aplikasi eCorr. Langkah-langkah untuk
 
 1. Klik menu **New Correspondence**
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM01.png/?sanitize=true)
 
 2. Pilih jenis surat &quot;**Surat Masuk**&quot;
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM02.png/?sanitize=true)
 
 3. Isi form tambah surat masuk. Klik **Simpan** untuk menyimpan form surat dan surat akan tersimpan di menu 
 &quot;**Draft - Surat Masuk**&quot;. Klik **Simpan** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu 
 &quot;**Outbox - Surat Masuk**&quot;
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM03.png/?sanitize=true)
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM04.png/?sanitize=true)
 
 4. Sistem berhasil menyimpan perubahan
 
@@ -37,7 +37,7 @@ surat masuk adalah sebagai berikut:
 
 1. Klik menu **Inbox** dan pilih tab **Surat Masuk**. 
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM05.png/?sanitize=true)
 
  2. Sistem akan menampilkan daftar surat masuk yang ditujukan pada sekretaris
 
@@ -58,15 +58,15 @@ Langkah-langkah untuk melakukan *drafting* surat masuk adalah sebagai berikut:
 
 1. Klik menu **Draft** dan pilih tab **Surat masuk**
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM06.png/?sanitize=true)
 
 2. Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM07.png/?sanitize=true)
 
 3. Sistem akan menampilkan *form* **Edit Correspondence**
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM08.png/?sanitize=true)
 
 4. Lakukan perubahan pada *form*. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan 
 tersimpan di menu &quot;**Outbox - Surat masuk&quot;**
@@ -88,31 +88,31 @@ dan *history* surat masuk. Langkah-langkah untuk melihat informasi surat masuk a
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat masuk**. Pilih salah satu surat masuk yang akan dilihat informasinya
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM09.png/?sanitize=true)
 
 #### 1.1. *Preview* Surat masuk
 
 Pada tab informasi *Preview* surat masuk, ditampilkan *preview* surat masuk yang merupakan hasil unggahan yang diinputkan 
 oleh sekretaris/konseptor.
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM10.png/?sanitize=true)
 
 #### 1.2. Detail Surat masuk
 
 Pada tab Detail surat masuk, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, 
 nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM11.png/?sanitize=true)
 
 #### 1.3. *Tracking* Surat masuk
 
 Pada tab *tracking* surat masuk, ditampilkan informasi *tracking* surat masuk dalam bentuk *chart*
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM12.png/?sanitize=true)
 
 #### 1.4. *History* Surat masuk
 
 Pada tab *History* surat masuk, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan 
 komentar
 
- ![Gambar]()
+ ![Gambar](_screenshoot_surat_masuk/SM13.png/?sanitize=true)

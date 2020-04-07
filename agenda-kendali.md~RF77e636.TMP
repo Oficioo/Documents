@@ -37,7 +37,7 @@ Langkah-langkah untuk melihat daftar dokumen keluar adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Dokumen Keluar**
 
- ![Gambar](_screenshoot_agenda_kendali/AG02.png/?sanitize=true)
+ ![Gambar]()
 
 2. Sistem menampilkan dokumen keluar yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status 
 dan *secretary notes*.
@@ -58,7 +58,7 @@ sekretaris. Langkah-langkah untuk melihat daftar dokumen disposisi adalah sebaga
 
 1. Klik menu **Document Control** dan pilih submenu **Dokumen Disposisi**
 
- ![Gambar](_screenshoot_agenda_kendali/AG03.png/?sanitize=true)
+ ![Gambar]()
 
 2. Sistem menampilkan dokumen disposisi yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, 
 status dan *secretary notes*.
@@ -87,11 +87,11 @@ Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi**
 
- ![Gambar](_screenshoot_agenda_kendali/AG04.png/?sanitize=true)
+ ![Gambar]()
 
 2. Klik salah satu surat yang akan dilihat detailnya
 
- ![Gambar](_screenshoot_agenda_kendali/AG05.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem akan menampilkan detail surat yang dipilih
 
@@ -100,26 +100,26 @@ Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan
 Pada tab informasi *Preview* surat, ditampilkan *preview* surat yang sudah dibuat. *Preview* surat disesuaikan dengan template
 berdasarkan jenis surat.
 
- ![Gambar](_screenshoot_agenda_kendali/AG06.png/?sanitize=true)
+ ![Gambar]()
 
 #### Detail Surat
 
 Pada tab Detail surat, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, 
 tujuan surat
 
- ![Gambar](_screenshoot_agenda_kendali/AG07.png/?sanitize=true)
+ ![Gambar]()
 
 #### *Tracking* Surat
 
 Pada tab *Tracking* surat, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
- ![Gambar](_screenshoot_agenda_kendali/AG08.png/?sanitize=true)
+ ![Gambar]()
 
 #### *History* Memorandum
 
 Pada tab *History* surat, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
- ![Gambar](_screenshoot_agenda_kendali/AG09.png/?sanitize=true)
+ ![Gambar]()
 
 
 
@@ -136,15 +136,15 @@ adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi**
 
- ![Gambar](_screenshoot_agenda_kendali/AG10.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih dokumen/surat yang akan ditambahkan catatan dengan klik button **Catatan**
 
- ![Gambar](_screenshoot_agenda_kendali/AG11.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem akan menapilkan pop up **Tambah Catatan** Isikan catatan dan klik tombol **Simpan**
 
- ![Gambar](_screenshoot_agenda_kendali/AG12.png/?sanitize=true)
+ ![Gambar]()
  
  4. Sistem berhasil menyimpan perubahan catatan dokumen
 
@@ -163,15 +163,15 @@ mencetak dokumen agenda kendali adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk/Dokumen Keluar/Dokumen Disposisi**
 
- ![Gambar](_screenshoot_agenda_kendali/AG13.png/?sanitize=true)
+ ![Gambar]()
 
 2. Klik button **Filter** kemudian sistem menampilkan form filter dokumen yang akan dicetak
 
- ![Gambar](_screenshoot_agenda_kendali/AG14.png/?sanitize=true)
+ ![Gambar]()
 
 3. Data akan tampil berdasarkan filter yang sudah dipilih kemudian klik tombol **Excel** untuk mencetak
 
- ![Gambar](_screenshoot_agenda_kendali/AG15.png/?sanitize=true)
+ ![Gambar]()
 
 
 
@@ -189,20 +189,20 @@ Permintaan nomor offline digunakan untuk *request* pemrosesan nomor dokumen seca
 
 1. Klik menu **Document Control** dan pilih tab **Request Offline Number**
 
- ![Gambar](_screenshoot_agenda_kendali/AG16.png/?sanitize=true)
+ ![Gambar]()
 
 2. Klik button &quot;+&quot; untuk melakukan *request* nomor offline
 
- ![Gambar](_screenshoot_agenda_kendali/AG17.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem menampilkan form **Request Nomor Offline** Isi form dan klik **Send**
 
- ![Gambar](_screenshoot_agenda_kendali/AG18.png/?sanitize=true)
+ ![Gambar]()
 
 4. Sistem berhasil menyimpan perubahan dan nomor offline yang sudah di *request* akan tampil di halaman daftar 
 **Request Nomor Offline** dengan status **Waiting**
 
- ![Gambar](_screenshoot_agenda_kendali/AG19.png/?sanitize=true)
+ ![Gambar]()
 
 
 
@@ -219,11 +219,11 @@ sekretaris. Langkah-langkah untuk menyetujui permintaan nomor adalah sebagai ber
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 
- ![Gambar](_screenshoot_agenda_kendali/AG20.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan disetujui kemudian pilih tombol **Approve**
 
- ![Gambar](_screenshoot_agenda_kendali/AG21.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu 
 &quot;**Document Control - List Approval Request**&quot; dengan status **Approved** pada role admin eCorr. Sedangkan untuk
@@ -244,11 +244,11 @@ oleh sekretaris. Langkah-langkah untuk menolak permintaan nomor adalah sebagai b
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 
- ![Gambar](_screenshoot_agenda_kendali/AG22.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan ditolak kemudian pilih tombol **Reject**
 
- ![Gambar](_screenshoot_agenda_kendali/AG23.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu 
 &quot;**Document Control - List Approval Request**&quot; dengan status **Rejected** pada role admin eCorr. 
@@ -270,24 +270,24 @@ dokumen nomor offline adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
- ![Gambar](_screenshoot_agenda_kendali/AG24.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan diunggah dokumennya dengan klik tombol **Detail**
 
- ![Gambar](_screenshoot_agenda_kendali/AG25.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem menampilkan detail nomor offline dan daftar nomor berapa saja yang di-*request*
 
- ![Gambar](_screenshoot_agenda_kendali/AG26.png/?sanitize=true)
+ ![Gambar]()
 
 4. Pilih tombol **Upload File** dan pilih file yang akan diunggah
 
- ![Gambar](_screenshoot_agenda_kendali/AG27.png/?sanitize=true)
+ ![Gambar]()
 
 5. Sistem berhasil menunggah dokumen/file nomor offline. File yang sudah diunggah muncul di halaman detail nomor offline dan 
 hasil unggahan dapat di unduh oleh user
 
- ![Gambar](_screenshoot_agenda_kendali/AG28.png/?sanitize=true)
+ ![Gambar]()
 
 
 
@@ -308,24 +308,24 @@ adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
- ![Gambar](_screenshoot_agenda_kendali/AG29.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan dikembalikan dengan klik tombol **Detail**
 
- ![Gambar](_screenshoot_agenda_kendali/AG30.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem menampilkan detail nomor offline dan daftar nomor berapa saja yang di-*request*
 
- ![Gambar](_screenshoot_agenda_kendali/AG31.png/?sanitize=true)
+ ![Gambar]()
 
 4. Pilih tombol **Batalkan**
 
- ![Gambar](_screenshoot_agenda_kendali/AG32.png/?sanitize=true)
+ ![Gambar]()
 
 5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu 
 &quot;**Document Control - List Returned Request**&quot; pada role admin eCorr.
 
- ![Gambar](_screenshoot_agenda_kendali/AG33.png/?sanitize=true)
+ ![Gambar]()
 
 
 
@@ -346,19 +346,19 @@ pengembalian nomor offline adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **List Returned Request**
 
- ![Gambar](_screenshoot_agenda_kendali/AG34.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan disetujui dengan klik tombol **Approve**
 
- ![Gambar](_screenshoot_agenda_kendali/AG35.png/?sanitize=true)
+ ![Gambar]()
 
 3. Sistem menampilkan berhasil menyimpan perubahan. Nomor yang sudah disetujui akan berubah status menjadi **Approved**, 
 sedangkan pada role sekretaris nomor offline yang disetujui pengembaliannya akan berubah status menjadi 
 **Pengembalian Disetujui**
 
- ![Gambar](_screenshoot_agenda_kendali/AG36.png/?sanitize=true)
+ ![Gambar]()
 
- ![Gambar](_screenshoot_agenda_kendali/AG37.png/?sanitize=true)
+ ![Gambar]()
 
 
 
@@ -377,14 +377,14 @@ untuk menambahkan komentar adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
- ![Gambar](_screenshoot_agenda_kendali/AG38.png/?sanitize=true)
+ ![Gambar]()
 
 2. Pilih nomor offline yang akan ditambahkan komentar dan halaman detail nomor offline akan muncul
 
- ![Gambar](_screenshoot_agenda_kendali/AG39.png/?sanitize=true)
+ ![Gambar]()
 
 3. Isikan komentar kemudian klik tombol **Send**
 
- ![Gambar](_screenshoot_agenda_kendali/AG40.png/?sanitize=true)
+ ![Gambar]()
 
 4. Sistem menyimpan perubahan dan user dapat saling berkomentar pada detail nomor offline
