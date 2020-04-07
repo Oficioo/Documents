@@ -1,4 +1,4 @@
-# Surat Masuk
+# Agenda Kendali
 
 Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat 
 pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh 
@@ -95,29 +95,29 @@ Langkah-langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan
 
 3. Sistem akan menampilkan detail surat yang dipilih
 
-#### *Preview* Surat
+#### 4.1. *Preview* Surat
 
-Pada tab informasi *Preview* surat, ditampilkan *preview* surat yang sudah dibuat. *Preview* surat disesuaikan dengan template
+Pada tab **Preview surat**, ditampilkan *preview* surat yang sudah dibuat. *Preview* surat disesuaikan dengan template
 berdasarkan jenis surat.
 
  ![Gambar](_screenshoot_agenda_kendali/AG06.png/?sanitize=true)
 
-#### Detail Surat
+#### 4.2. Detail Surat
 
-Pada tab Detail surat, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, 
-tujuan surat
+Pada tab **Detail Surat**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, 
+tujuan surat.
 
  ![Gambar](_screenshoot_agenda_kendali/AG07.png/?sanitize=true)
 
-#### *Tracking* Surat
+#### 4.3. *Tracking* Surat
 
-Pada tab *Tracking* surat, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
+Pada tab **Tracking Surat**, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
  ![Gambar](_screenshoot_agenda_kendali/AG08.png/?sanitize=true)
 
-#### *History* Memorandum
+#### 4.4. *History* Memorandum
 
-Pada tab *History* surat, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History Surat**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
  ![Gambar](_screenshoot_agenda_kendali/AG09.png/?sanitize=true)
 

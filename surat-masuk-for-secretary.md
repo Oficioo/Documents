@@ -1,4 +1,4 @@
-# Mengelola Inbox
+# Surat Masuk
 
 Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian 
 dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat 
