@@ -1,4 +1,4 @@
-### 1. Menambah Surat Masuk
+### 2. Menambah Surat Masuk
 
 Sekretaris dapat menambah surat masuk pada aplikasi eCorr. Langkah-langkah untuk menambah surat masuk adalah sebagai berikut:
 

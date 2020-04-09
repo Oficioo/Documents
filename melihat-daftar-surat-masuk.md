@@ -1,4 +1,4 @@
-### 2. Melihat Daftar Surat Masuk
+### 1. Melihat Daftar Surat Masuk
 
 Sekretaris dapat melihat daftar surat masuk yang ditujukan pada sekretaris tersebut. Langkah-langkah untuk melihat daftar 
 surat masuk adalah sebagai berikut:

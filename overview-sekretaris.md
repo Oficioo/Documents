@@ -11,13 +11,13 @@ tujuan lainnya ataupun pejabat yang ada di bawahnya.
 
 Sekretaris dapat mengelola jenis surat masuk antara lain yaitu:
 
-- [Melihat Daftar Surat Masuk]( "Klik Link Ini Untuk Melihat Daftar Surat Masuk")
+- [Melihat Daftar Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/bcaa0dd61e984782bf603440ea5f7735 "Klik Link Ini Untuk Melihat Daftar Surat Masuk")
 
-- [Menambah Surat Masuk]( "Klik Link Ini Untuk Menambah Daftar Surat Masuk")
+- [Menambah Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/08ff85366f1e4daa9c8df9bd892d654d "Klik Link Ini Untuk Menambah Daftar Surat Masuk")
 
-- [Melakukan Drafting Surat Masuk]( "Klik Link Ini Untuk Melakukan Drafting Surat Masuk")
+- [Melakukan Drafting Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/54ba9c27fe6b41f08185d35cc0a5f727 "Klik Link Ini Untuk Melakukan Drafting Surat Masuk")
 
-- [Melihat Informasi Lengkap Surat Masuk]( "Klik Link Ini Untuk Melihat Informasi Lengkap Surat Masuk")
+- [Melihat Informasi Lengkap Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/1220733dfa3f4973a0e1e9f104f81d12 "Klik Link Ini Untuk Melihat Informasi Lengkap Surat Masuk")
 
 
 ### 2. Agenda Kendali
