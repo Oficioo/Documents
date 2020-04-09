@@ -13,7 +13,7 @@ Sekretaris dapat mengelola jenis surat masuk antara lain yaitu:
 
 - [Melihat Daftar Surat Masuk]( "Klik Link Ini Untuk Melihat Daftar Surat Masuk")
 
-- [Menambah Daftar Surat Masuk]( "Klik Link Ini Untuk Menambah Daftar Surat Masuk")
+- [Menambah Surat Masuk]( "Klik Link Ini Untuk Menambah Daftar Surat Masuk")
 
 - [Melakukan Drafting Surat Masuk]( "Klik Link Ini Untuk Melakukan Drafting Surat Masuk")
 
