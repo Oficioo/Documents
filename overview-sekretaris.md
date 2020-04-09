@@ -11,6 +11,21 @@ tujuan lainnya ataupun pejabat yang ada di bawahnya.
 
 Sekretaris dapat mengelola jenis surat masuk antara lain yaitu:
 
+- [Melihat Daftar Surat Masuk]( "Klik Link Ini Untuk Melihat Daftar Surat Masuk")
+
+- [Menambah Daftar Surat Masuk]( "Klik Link Ini Untuk Menambah Daftar Surat Masuk")
+
+- [Melakukan Drafting Surat Masuk]( "Klik Link Ini Untuk Melakukan Drafting Surat Masuk")
+
+- [Melihat Informasi Lengkap Surat Masuk]( "Klik Link Ini Untuk Melihat Informasi Lengkap Surat Masuk")
+
+
+### 2. Agenda Kendali
+
+Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh sekretaris dan akan ditindaklanjuti oleh admin eCorr.
+
+Sekretaris dapat mengelola agenda kendali antara lain yaitu:
+
 - [Melihat Daftar Dokumen Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/a7ad04c2a44d41e9bbff13d3ae6b4511 "Klik Link Ini Untuk Melihat Daftar Dokumen Masuk")
 
 - [Melihat Daftar Dokumen Keluar](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/bbdb5c11e68249589d4819c6d8ee3854 "Klik Link Ini Untuk Melihat Daftar Dokumen Keluar")
@@ -35,22 +50,4 @@ Sekretaris dapat mengelola jenis surat masuk antara lain yaitu:
 
 - [Pengembalian Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/3ca599feed5541ed9c5c7698d65186b3 "Klik Link Ini Untuk Menyetujui Pengembalian Nomor Offline")
 
-- [Menambah Komentar Request Nomor Offline")](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/ed1dd24930574cea80170251d196ce33 "Klik Link Ini Untuk Menambah Komentar Request Nomor Offline")
-
-
-### 2. Agenda Kendali
-
-Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh sekretaris dan akan ditindaklanjuti oleh admin eCorr.
-
-Sekretaris dapat mengelola agenda kendali antara lain yaitu:
-
-1. Melihat daftar dokumen masuk
-2. Melihat daftar dokumen keluar
-3. Melihat daftar dokumen disposisi
-4. Melihat detail surat
-5. Menambahkan catatan dokumen
-6. Mencetak dokumen agenda kendali
-7. Melakukan request nomor offline
-8. Mengunggah dokumen nomor offline
-9. Mengembalikan nomor offline
-10. Menambahkan komentar request nomor offline
+- [Menambah Komentar Request Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/ed1dd24930574cea80170251d196ce33 "Klik Link Ini Untuk Menambah Komentar Request Nomor Offline")
