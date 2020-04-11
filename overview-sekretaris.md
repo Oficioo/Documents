@@ -13,7 +13,9 @@ Sekretaris dapat mengelola jenis surat masuk antara lain yaitu:
 
 - [Melihat Daftar Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/bcaa0dd61e984782bf603440ea5f7735 "Klik Link Ini Untuk Melihat Daftar Surat Masuk")
 - [Menambah Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/08ff85366f1e4daa9c8df9bd892d654d "Klik Link Ini Untuk Menambah Daftar Surat Masuk")
+
 - [Melakukan Drafting Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/54ba9c27fe6b41f08185d35cc0a5f727 "Klik Link Ini Untuk Melakukan Drafting Surat Masuk")
+
 - [Melihat Informasi Lengkap Surat Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/surat-masuk/1220733dfa3f4973a0e1e9f104f81d12 "Klik Link Ini Untuk Melihat Informasi Lengkap Surat Masuk")
 
 
@@ -33,22 +35,13 @@ Sekretaris dapat mengelola agenda kendali antara lain yaitu:
 - [Dokumen Agenda kendali](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/227a1c3e151a4c89b48df6345a44c094 "Klik Link Ini Untuk Mencetak Dokumen Agenda kendali")
 - [Melakukan Request Nomor Offlie](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/e464d73ce4e0448a812f9e82e835aa2a "Klik Link Ini Untuk Melakukan Request Nomor Offlie")
 - [Menyetujui Permintaan Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/9549d838da8b4baaa896203a1f961ccf "Klik Link Ini Untuk Menyetujui Permintaan Nomor Offline")
+
 - [Menolak Permintaan Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/e6961403d5074987a6ff72ab21fc185b "Klik Link Ini Untuk Menolak Permintaan Nomor Offline")
+
 - [Mengunggah Dokumen Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/0d85dd6f2893443987efc26f2227db55 "Klik Link Ini Untuk Mengunggah Dokumen Nomor Offline")
+
 - [Mengembalikan Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/d63ef3c33600489e8ecc78458580fe2a "Klik Link Ini Untuk Mengembalikan Nomor Offline")
+
 - [Pengembalian Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/3ca599feed5541ed9c5c7698d65186b3 "Klik Link Ini Untuk Menyetujui Pengembalian Nomor Offline")
+
 - [Menambah Komentar Request Nomor Offline](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/agenda-kendali/ed1dd24930574cea80170251d196ce33 "Klik Link Ini Untuk Menambah Komentar Request Nomor Offline")
-
-
-### 3. Fax Masuk
-
-Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. 
-Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang 
-ada di bawahnya.
-
-Sekretaris dapat mengelola jenis fax masuk antara lain yaitu:
-
-- [Melihat daftar Fax Masuk]( "Klik Link Ini Untuk Melihat daftar Fax Masuk" )
-- [Menambah Fax Masuk]( "Klik Link Ini Untuk Menambah Fax Masuk")
-- [Melakukan Drafting Fax Masuk]( "Klik Link Ini Untuk Melakukan Drafting Fax Masuk")
-- [Melihat Informasi Lengkap Fax Masuk]( "Klik Link Ini Untuk Melihat Informasi Lengkap Fax Masuk")
