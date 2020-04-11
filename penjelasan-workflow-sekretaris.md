@@ -5,7 +5,7 @@ eksternal unit organisasi Pertamina yang dikirimkan ke Pertamina. Surat yang dit
 pada aplikasi eCorr oleh sekretaris dan dikirimkan ke pejabat tujuan. Pejabat penerima surat masuk dapat meneruskan ke pejabat
 yang ada dibawahnya ataupun ke pejabat lain.  
 
-Berikut adalah penjelasan terkait alur “Disposisi Surat Masuk” antara lain yaitu: 
+Berikut adalah penjelasan terkait alur &quot;Disposisi Surat Masuk&quot; antara lain yaitu: 
 
 1. Sekretaris menerima surat masuk dalam bentuk fisik yang diinputkan pada aplikasi eCorr 
 2. Sekretaris mengirimkan ke pejabat tujuan 
@@ -17,7 +17,7 @@ Berikut adalah penjelasan terkait alur “Disposisi Surat Masuk” antara lain yaitu
 
 ![Gambar](_screenshoot_workflow_surat_masuk/DES01.png/?sanitize=true)
 
-Berikut adalah penjelasan terkait alur “Selesaikan Surat Masuk” antara lain yaitu: 
+Berikut adalah penjelasan terkait alur &quot;Selesaikan Surat Masuk&quot; antara lain yaitu: 
 
 1. Sekretaris menerima surat masuk dalam bentuk fisik yang diinputkan pada aplikasi eCorr 
 2. Sekretaris mengirimkan ke pejabat tujuan 
@@ -26,7 +26,7 @@ Berikut adalah penjelasan terkait alur “Selesaikan Surat Masuk” antara lain yait
 
 ![Gambar](_screenshoot_workflow_surat_masuk/DES02.png/?sanitize=true)
 
-Berikut adalah penjelasan terkait alur “Tolak/reject Surat Masuk” antara lain yaitu: 
+Berikut adalah penjelasan terkait alur &quot;Tolak/reject Surat Masuk&quot; antara lain yaitu: 
 
 1. Sekretaris menerima surat masuk dalam bentuk fisik yang diinputkan pada aplikasi eCorr 
 2. Sekretaris mengirimkan ke pejabat tujuan 
