@@ -52,5 +52,3 @@ Hal-hal yang dapat dilakukan oleh *Sekretaris* dalam mengelola fax masuk antara 
 - [Menambah Fax Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/fax-masuk/c801706e076443cf847bfcf12ede49cf "Klik Link Ini Untuk Menambah Fax Masuk")
 - [Melakukan Drafting Fax Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/fax-masuk/fa6dbc8237b34ccc9c0c71596165b027 "Klik Link Ini Untuk Melakukan Drafting Fax Masuk")
 - [Melihat Informasi Lengkap Fax Masuk](https://docs.oficioo.id/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/fax-masuk/ea945fbcbfa34d0d9fb5d26e897706d1 "Klik Link Ini Untuk Melihat Informasi Lengkap Fax Masuk")
-
-
