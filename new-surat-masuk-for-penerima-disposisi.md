@@ -1,6 +1,8 @@
 ## Surat masuk
 
-Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya
+Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian 
+dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat 
+tujuan lainnya ataupun pejabat yang ada di bawahnya
 
 
 
@@ -9,6 +11,7 @@ Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan be
 ### 1. Melihat Daftar Disposisi Surat Masuk
 
 **Role yang sesuai:**
+
 - Penerima Surat masuk/Pendisposisi
 - Penerima Disposisi
 
