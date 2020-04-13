@@ -1,95 +1,4 @@
-﻿
-
-
-
-
-
-### 2. Mengelola Klasifikasi Surat  
-
-**Role yang sesuai:**
-
-- Admin eCorr
-
-Admin eCorr dapat mengelola klasifikasi surat yang digunakan dalam penginputan form surat. Pengelolaan klasifikasi surat yang dilakukan admin eCorr antara lain yaitu:
-
-- Mencari klasifikasi surat
-- Menambah klasifikasi surat
-- Mengubah klasifikasi surat
-- Menghapus klasifikasi surat
-
-Langkah-langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
-
-#### 2.1. *Mencari Klasifikasi surat*
-
-1. Pilih menu **Master** dan pilih submenu **Mail Classification**
-
-![Gambar](_screenshoot_data_master/DM14.png "image*tooltip")
-
-1. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
-
-![Gambar](_screenshoot_data_master/DM15.png "image*tooltip")
-
-#### 2.2. *Menambah Klasifikasi Surat*
-
-1. Pilih menu **Master **dan pilih submenu **Mail Classification**
-
-![Gambar](_screenshoot_data_master/DM16.png "image*tooltip")
-
-2. Pilih tombol &quot;+&quot; untuk menambah klasifikasi surat
-
-![Gambar](_screenshoot_data_master/DM17.png "image*tooltip")
-
-3. Isikan informasi klasifikasi surat meliputi nama kemudian klik tombol **Submit**
-
-![Gambar](_screenshoot_data_master/DM18.png "image*tooltip")
-
-4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar klasifikasi surat
-
-#### 2.3. *Mengubah Klasifikasi Surat*
-
-1. Pilih menu **Master** dan pilih submenu **Mail Classification**    
-
-![Gambar](_screenshoot_data_master/DM19.png "image*tooltip")
-
-2. Klik checklist pada klasifikasi surat yang akan diubah kemudian klik icon **Ubah**
-
-![Gambar](_screenshoot_data_master/DM20.png "image*tooltip")
-
-3. Lakukan perubahan pada klasifikasi surat, pilih **Cancel** untuk membatalkan proses
-
-![Gambar](_screenshoot_data_master/DM21.png "image*tooltip")
-
-4. Lakukan perubahan pada klasifikasi surat kemudian klik tombol **Submit**
-
-![Gambar](_screenshoot_data_master/DM22.png "image*tooltip")
-
-5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar klasifikasi surat
-   
-#### 2.4. *Menghapus Klasifikasi Surat*
-
-1. Pilih menu **Master** dan pilih submenu **Mail Classification**
-
-![Gambar](_screenshoot_data_master/DM23.png "image*tooltip")
-
-2. Klik checklist pada klasifikasi surat yang akan dihapus kemudian klik icon **Delete**
-
-![Gambar](_screenshoot_data_master/DM24.png "image*tooltip")
-
-3. Klik tombol **Cancel** untuk membatalkan proses
-
-![Gambar](_screenshoot_data_master/DM25.png "image*tooltip")
-
-4. Klik tombol **Ya** untuk menghapus klasifikasi surat
-
-![Gambar](_screenshoot_data_master/DM26.png "image*tooltip")
-
-5. Sistem menyimpan perubahan dan data akan terhapus dari daftar klasifikasi surat
-   
-
-
-
-
-### 3. Mengelola Prioritas surat 
+﻿### 3. Mengelola Prioritas surat 
 
 **Role yang sesuai:**
 - Admin eCorr
@@ -107,25 +16,25 @@ Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
-![Gambar](_screenshoot_data_master/DM27.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM27.png/?sanitize=true)
 
 2. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![Gambar](_screenshoot_data_master/DM28.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM28.png/?sanitize=true)
 
 #### 3.2. *Menambah Prioritas Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
-![Gambar](_screenshoot_data_master/DM29.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM29.png/?sanitize=true)
 
 2. Pilih tombol &quot;+&quot; untuk menambah prioritas surat
 
-![Gambar](_screenshoot_data_master/DM30.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM30.png/?sanitize=true)
 
 3. Isikan informasi prioritas surat meliputi nama kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM31.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM31.png/?sanitize=true)
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar prioritas surat
 
@@ -133,19 +42,19 @@ Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
-![Gambar](_screenshoot_data_master/DM32.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM32.png/?sanitize=true)
 
 2. Klik checklist pada prioritas surat yang akan diubah kemudian klik icon **Ubah**
 
-![Gambar](_screenshoot_data_master/DM33.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM33.png/?sanitize=true)
 
 3. Lakukan perubahan pada prioritas surat, pilih **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM34.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM34.png/?sanitize=true)
 
 4. Lakukan perubahan pada prioritas surat kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM35.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM35.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar prioritas surat
    
@@ -153,19 +62,19 @@ Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
-![Gambar](_screenshoot_data_master/DM36.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM36.png/?sanitize=true)
 
 2. Klik checklist pada prioritas surat yang akan dihapus kemudian klik icon **Delete**
 
-![Gambar](_screenshoot_data_master/DM37.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM37.png/?sanitize=true)
 
 3. Klik tombol **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM38.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM38.png/?sanitize=true)
 
 4. Klik tombol **Ya **untuk menghapus prioritas surat
 
-![Gambar](_screenshoot_data_master/DM39.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM39.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar prioritas surat
    
@@ -192,25 +101,25 @@ Langkah-langkah untuk pengelolaan kategori surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![Gambar](_screenshoot_data_master/DM40.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM40.png/?sanitize=true)
 
 2. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![Gambar](_screenshoot_data_master/DM41.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM41.png/?sanitize=true)
 
 #### 4.2. *Menambah Kategori Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![Gambar](_screenshoot_data_master/DM42.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM42.png/?sanitize=true)
 
 2. Pilih tombol &quot;+&quot; untuk menambah kategori surat
 
-![Gambar](_screenshoot_data_master/DM43.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM43.png/?sanitize=true)
 
 3. Isikan informasi kategori surat meliputi nama kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM44.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM44.png/?sanitize=true)
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar kategori surat
    
@@ -218,19 +127,19 @@ Langkah-langkah untuk pengelolaan kategori surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![Gambar](_screenshoot_data_master/DM45.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM45.png/?sanitize=true)
 
 2. Klik checklist pada kategori surat yang akan diubah kemudian klik icon **Ubah**
 
-![Gambar](_screenshoot_data_master/DM46.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM46.png/?sanitize=true)
 
 3. Lakukan perubahan pada kategori surat, pilih **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM47.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM47.png/?sanitize=true)
 
 4. Lakukan perubahan pada kategori surat kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM48.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM48.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar kategori surat
  
@@ -238,19 +147,19 @@ Langkah-langkah untuk pengelolaan kategori surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![Gambar](_screenshoot_data_master/DM49.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM49.png/?sanitize=true)
 
 2. Klik checklist pada kategori surat yang akan dihapus kemudian klik icon **Delete**
 
-![Gambar](_screenshoot_data_master/DM50.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM50.png/?sanitize=true)
 
 3. Klik tombol **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM51.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM51.png/?sanitize=true)
 
 4. Klik tombol **Ya** untuk menghapus kategori surat
 
-![Gambar](_screenshoot_data_master/DM52.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM52.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar kategori surat
 
@@ -273,25 +182,25 @@ Langkah-langkah untuk pengelolaan *task list* SP3S adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu ***Task list***
 
-![Gambar](_screenshoot_data_master/DM53.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM53.png/?sanitize=true)
 
 1. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![Gambar](_screenshoot_data_master/DM54.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM54.png/?sanitize=true)
 
 #### 5.2. *Menambah Task List SP3S*
 
 1. Pilih menu **Master** dan pilih submenu ***Task list***
 
-![Gambar](_screenshoot_data_master/DM55.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM55.png/?sanitize=true)
 
 2. Pilih tombol &quot;+&quot; untuk menambah *task list*
 
-![Gambar](_screenshoot_data_master/DM56.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM56.png/?sanitize=true)
 
 3. Isikan informasi *task list* meliputi nama kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM57.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM57.png/?sanitize=true)
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar *task list*
 
@@ -299,19 +208,19 @@ Langkah-langkah untuk pengelolaan *task list* SP3S adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu ***Task list***
 
-![Gambar](_screenshoot_data_master/DM58.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM58.png/?sanitize=true)
 
 2. Klik checklist pada *task list* yang akan diubah kemudian klik icon **Ubah**
 
-![Gambar](_screenshoot_data_master/DM59.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM59.png/?sanitize=true)
 
 3. Lakukan perubahan pada *task list*, pilih **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM60.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM60.png/?sanitize=true)
 
 4. Lakukan perubahan pada *task list* kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM61.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM61.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar *task list*
 
@@ -319,19 +228,19 @@ Langkah-langkah untuk pengelolaan *task list* SP3S adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu ***Task list***
 
-![Gambar](_screenshoot_data_master/DM62.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM62.png/?sanitize=true)
 
 2. Klik checklist pada *task list* yang akan dihapus kemudian klik icon **Delete**
 
-![Gambar](_screenshoot_data_master/DM63.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM63.png/?sanitize=true)
 
 3. Klik tombol **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM64.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM64.png/?sanitize=true)
 
 4. Klik tombol **Ya** untuk menghapus *task list*
 
-![Gambar](_screenshoot_data_master/DM65.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM65.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar *task list*
 
@@ -354,25 +263,25 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Places**
 
-![Gambar](_screenshoot_data_master/DM66.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM66.png/?sanitize=true)
 
 2. Pilih tombol **Search **dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![Gambar](_screenshoot_data_master/DM67.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM67.png/?sanitize=true)
 
 #### 6.2. *Menambah Tempat*
 
 1. Pilih menu **Master** dan pilih submenu **Places**
 
-![Gambar](_screenshoot_data_master/DM68.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM68.png/?sanitize=true)
 
 2. Pilih tombol &quot;+&quot; untuk menambah tempat
 
-![Gambar](_screenshoot_data_master/DM69.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM69.png/?sanitize=true)
 
 3. Isikan informasi tempat meliputi nama kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM70.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM70.png/?sanitize=true)
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
@@ -380,19 +289,19 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Places**
 
-![Gambar](_screenshoot_data_master/DM71.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM71.png/?sanitize=true)
 
 2. Klik checklist pada tempat yang akan diubah kemudian klik icon **Ubah**
 
-![Gambar](_screenshoot_data_master/DM72.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM72.png/?sanitize=true)
 
 3. Lakukan perubahan pada tempat, pilih **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM73.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM73.png/?sanitize=true)
 
 4. Lakukan perubahan pada tempat kemudian klik tombol **Submit**
 
-![Gambar](_screenshoot_data_master/DM74.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM74.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
@@ -400,18 +309,18 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat adalah sebagai berikut:
 
 1. Pilih menu **Master **dan pilih submenu **Mail Categories**
 
-![Gambar](_screenshoot_data_master/DM75.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM75.png/?sanitize=true)
 
 2. Klik checklist pada tempat yang akan dihapus kemudian klik icon **Delete**
 
-![Gambar](_screenshoot_data_master/DM76.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM76.png/?sanitize=true)
 
 3. Klik tombol **Cancel** untuk membatalkan proses
 
-![Gambar](_screenshoot_data_master/DM77.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM77.png/?sanitize=true)
 
 4. Klik tombol **Ya** untuk menghapus tempat
 
-![Gambar](_screenshoot_data_master/DM78.png "image*tooltip")
+![Gambar](_screenshoot_data_master/DM78.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar tempat

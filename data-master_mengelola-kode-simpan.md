@@ -1,6 +1,4 @@
-### 1. Mengelola Kode Simpan
-
-**Role yang sesuai**
+**Role yang sesuai:**
 
 - Admin eCorr
 
