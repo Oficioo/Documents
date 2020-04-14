@@ -12,7 +12,7 @@ admin eCorr antara lain yaitu:
 
 Langkah-langkah untuk pengelolaan kode simpan adalah sebagai berikut:
 
-#### 1.1. *Mencari Kode Simpan*
+#### *Mencari Kode Simpan*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Code**
 
@@ -22,7 +22,7 @@ Langkah-langkah untuk pengelolaan kode simpan adalah sebagai berikut:
 
  ![Gambar](_screenshoot_data_master/DM02.png/?sanitize=true)
 
-#### 1.2. *Menambah Kode Simpan*
+#### *Menambah Kode Simpan*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Code**
 
@@ -38,7 +38,7 @@ Langkah-langkah untuk pengelolaan kode simpan adalah sebagai berikut:
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar kode simpan
 
-#### 1.3. *Mengubah Kode Simpan*
+#### *Mengubah Kode Simpan*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Code**
 
@@ -58,7 +58,7 @@ Langkah-langkah untuk pengelolaan kode simpan adalah sebagai berikut:
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar kode simpan
    
-#### 1.4 *Menghapus Kode Simpan*
+#### *Menghapus Kode Simpan*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Code**
 

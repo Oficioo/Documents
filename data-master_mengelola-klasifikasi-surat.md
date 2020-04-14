@@ -12,7 +12,7 @@ dilakukan admin eCorr antara lain yaitu:
 
 Langkah-langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 
-#### 2.1. *Mencari Klasifikasi surat*
+#### *Mencari Klasifikasi surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Classification**
 
@@ -22,7 +22,7 @@ Langkah-langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 
  ![Gambar](_screenshoot_data_master/DM15.png/?sanitize=true)
 
-#### 2.2. *Menambah Klasifikasi Surat*
+#### *Menambah Klasifikasi Surat*
 
 1. Pilih menu **Master **dan pilih submenu **Mail Classification**
 
@@ -38,7 +38,7 @@ Langkah-langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar klasifikasi surat
 
-#### 2.3. *Mengubah Klasifikasi Surat*
+#### *Mengubah Klasifikasi Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Classification**    
 
@@ -58,7 +58,7 @@ Langkah-langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar klasifikasi surat
    
-#### 2.4. *Menghapus Klasifikasi Surat*
+#### *Menghapus Klasifikasi Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Classification**
 

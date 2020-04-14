@@ -11,7 +11,7 @@ dilakukan admin eCorr antara lain yaitu:
 
 Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
-#### 3.1. *Mencari Prioritas Surat*
+#### *Mencari Prioritas Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
@@ -21,7 +21,7 @@ Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 ![Gambar](_screenshoot_data_master/DM28.png/?sanitize=true)
 
-#### 3.2. *Menambah Prioritas Surat*
+#### *Menambah Prioritas Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
@@ -37,7 +37,7 @@ Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar prioritas surat
 
-#### 3.3. *Mengubah Prioritas Surat*
+#### *Mengubah Prioritas Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar prioritas surat
    
-#### 3.4. *Menghapus Prioritas Surat*
+#### *Menghapus Prioritas Surat*
 
 1. Pilih menu **Master** dan pilih submenu **Mail Priority**
 
