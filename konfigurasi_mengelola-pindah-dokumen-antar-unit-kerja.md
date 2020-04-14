@@ -48,14 +48,14 @@ informasinya
 
  ![Gambar](_screenshoot_konfigurasi/KF17.png/?sanitize=true)
 
-##### Preview Surat masuk
+##### Melihat Informasi Dokumen - Preview Surat masuk
 
 Pada tab **Preview**, ditampilkan *preview* surat yang sudah dibuat. Preview surat disesuaikan dengan template berdasarkan 
 jenis surat.
 
  ![Gambar](_screenshoot_konfigurasi/KF18.png/?sanitize=true)
 
-##### Detail Surat
+##### Melihat Informasi Dokumen - Detail Surat
 
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, 
 klasifikasi surat, tanggal surat dan tujuan
@@ -63,13 +63,13 @@ klasifikasi surat, tanggal surat dan tujuan
  ![Gambar](_screenshoot_konfigurasi/KF19.png/?sanitize=true)
 
 
-##### Tracking Surat
+##### Melihat Informasi Dokumen - Tracking Surat
 
 Pada tab **Tracking**, ditampilkan informasi *tracking* surat dalam bentuk *chart*
 
  ![Gambar](_screenshoot_konfigurasi/KF20.png/?sanitize=true)
 
-##### History Surat
+##### Melihat Informasi Dokumen - History Surat
 
 Pada tab **History Surat**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
