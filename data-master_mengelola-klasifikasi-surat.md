@@ -74,6 +74,6 @@ Langkah-langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 
 4. Klik tombol **Ya** untuk menghapus klasifikasi surat
 
-![Gambar](_screenshoot_data_master/DM26.png/?sanitize=true)
+ ![Gambar](_screenshoot_data_master/DM26.png/?sanitize=true)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar klasifikasi surat
