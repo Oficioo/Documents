@@ -11,4 +11,23 @@ dan mendukung custom template surat.
 
 Hal-hal yang dapat dilakukan oleh IT Admin dalam mengelola data master antara lain: 
 
-1. Mengelola Kode Simpan 
+1. Mengelola Kode Simpan
+2. Mengelola Klasifikasi Surat
+3. Mengelola Prioritas Surat
+4. Mengelola Kategori Surat
+5. Mengelola Task List SP3S
+6. Mengelola Tempat
+
+### 2. Konfigurasi
+
+Pada modul ini mendukung pengelolaan konfigurasi aplikasi eCorr meliputi informasi aplikasi, menampilkan informasi user, 
+unit organisasi dan jabatan, pengelolaan pindah/*move* dokumen serta dapat melakukan konfigurasi notifikasi aplikasi eCorr
+
+Hal-hal yang dapat dilakukan oleh IT Admin dalam mengelola konfigurasi antara lain: 
+
+1. Melihat Informasi Aplikasi
+2. Mengelola Notifikasi Email
+3. Mengelola User pada Aplikasi
+4. Mengelola Unit Organisasi pada Aplikasi
+5. Mengelola Jabatan pada Aplikasi
+6. Mengelola Pindah Dokumen Antar Unit Kerja
