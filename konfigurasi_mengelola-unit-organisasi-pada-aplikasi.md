@@ -8,7 +8,7 @@ yaitu nama unit organisasi. Pengelolaan unit organisasi yang dilakukan oleh admi
 - Melihat daftar unit organisasi pada aplikasi
 - Mencari daftar unit organisasi pada aplikasi
  
-#### 4.1. *Melihat Daftar Unit Organisasi pada Aplikasi*
+#### *Melihat Daftar Unit Organisasi pada Aplikasi*
 
 Langkah-langkah untuk melihat daftar unit organisasi adalah sebagai berikut:
 
@@ -23,7 +23,7 @@ dengan klik pada icon **Tree**
 
 3. Sistem menampilkan unit organisasi dalam bentuk hirarki
 
-#### 4.2. *Mencari Unit Organisasi pada Aplikasi*
+#### *Mencari Unit Organisasi pada Aplikasi*
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Organization**
 

@@ -8,7 +8,7 @@ nama jabatan dan unit organisasi. Pengelolaan jabatan yang dilakukan oleh admin 
 - Melihat daftar jabatan pada aplikasi 
 - Mencari daftar jabatan pada aplikasi
 
-#### 5.1. *Melihat Daftar Jabatan pada Aplikasi*
+#### *Melihat Daftar Jabatan pada Aplikasi*
 
 Langkah-langkah untuk melihat daftar jabatan adalah sebagai berikut:
 
@@ -18,7 +18,7 @@ Langkah-langkah untuk melihat daftar jabatan adalah sebagai berikut:
 
 2. Sistem menampilkan daftar user pada aplikasi eCorr
     
-#### 5.2. *Mencari Jabatan pada Aplikasi*
+#### *Mencari Jabatan pada Aplikasi*
 
 Langkah-langkah untuk mencari jabatan adalah sebagai berikut:
 

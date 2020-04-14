@@ -15,7 +15,7 @@ pemindahan  dokumen yang dilakukan oleh admin eCorr antara lain yaitu:
     - History Surat
 - Melakukan pemindahan dokumen ke unit kerja lain
 
-#### *Melihat Daftar Dokumen*
+### *Melihat Daftar Dokumen*
 
 Langkah-langkah untuk melihat daftar dokumen adalah sebagai berikut:
 
@@ -25,7 +25,7 @@ Langkah-langkah untuk melihat daftar dokumen adalah sebagai berikut:
 
 2. Sistem menampilkan daftar dokumen pada halaman **Move Document**
    
-#### *Mencari Dokumen*
+### *Mencari Dokumen*
 
 Langkah-langkah untuk mencari dokumen adalah sebagai berikut:
 
@@ -39,7 +39,7 @@ Langkah-langkah untuk mencari dokumen adalah sebagai berikut:
 
 3. Sistem menampilkan hasil pencarian berdasarkan kata kunci
 
-#### *Melihat Informasi Dokumen*
+### *Melihat Informasi Dokumen*
 
 Langkah-langkah untuk melihat informasi dokumen adalah sebagai berikut:
 
@@ -75,7 +75,7 @@ Pada tab **History Surat**, ditampilkan riwayat surat masuk yang terdapat inform
 
  ![Gambar](_screenshoot_konfigurasi/KF21.png/?sanitize=true)
 
-#### 6.4 Melakukan Pemindahan Dokumen ke Unit Kerja Lain
+### Melakukan Pemindahan Dokumen ke Unit Kerja Lain
 
 Langkah-langkah untuk melihat informasi dokumen adalah sebagai berikut:
 
